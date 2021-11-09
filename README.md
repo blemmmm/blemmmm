@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blemmmm
-- 🌱 Check my projects @ [blemmmm.github.io](blemmmm.github.io)
+- 🌱 Check out my projects @ [blemmmm.github.io](blemmmm.github.io)
 - 📫 You can reach me at my email pera.blessly@gmail.com
 
 <!---
