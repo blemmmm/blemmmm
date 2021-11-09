@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blemmmm
-- 🌱 I’m currently learning Modern Javascript and React JS
+- 🌱 Check my projects @ blemmmm.github.io
 - 📫 You can reach me at my email pera.blessly@gmail.com
 
 <!---
