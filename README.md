@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blemmmm
-- 🌱 Check out my projects @ [blemmmm-github-io/vercel.app](https://blemmmm-github-io/vercel.app)
+- 🌱 Check out my projects @ [blemmmm-github-io.vercel.app](https://blemmmm-github-io.vercel.app)
 - 📫 You can reach me at my email pera.blessly@gmail.com
 
 <!---
